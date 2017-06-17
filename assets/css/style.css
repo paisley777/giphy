@@ -1,0 +1,19 @@
+.border-blue {
+	border: 2px solid rebeccapurple;
+}
+
+.bg-black {
+	background-color: black;
+}
+
+.float-left {
+	float: left;
+}
+
+.font-white {
+	color: white;
+}
+
+.margin {
+	margin: 10px;
+}
